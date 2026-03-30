@@ -21,6 +21,9 @@ It allows users to manage medicines, place orders, and handle inventory.
 2. Compile main.cpp
 3. Run the program
 
+## 📷 Sample Output
+<img width="901" height="477" alt="image" src="https://github.com/user-attachments/assets/01e58681-21d3-4dfe-86a4-2674ea8bd65e" />
+
 ## 👨‍💻 Author
 Abaidullah Tasleem
 
