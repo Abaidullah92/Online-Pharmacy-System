@@ -2,7 +2,7 @@
 C++ based pharmacy management system
 
 ## 💡 Project Type
-Console-based application using DSA concepts
+Console-based application
 
 ## 📌 Description
 This is a console-based Online Pharmacy System developed in C++.  
