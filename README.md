@@ -1,6 +1,8 @@
 # Online Pharmacy System (C++)
 C++ based pharmacy management system
 
+## 💡 Project Type
+Console-based application using DSA concepts
 
 ## 📌 Description
 This is a console-based Online Pharmacy System developed in C++.  
