@@ -22,4 +22,10 @@ It allows users to manage medicines, place orders, and handle inventory.
 3. Run the program
 
 ## 👨‍💻 Author
-Your Name
+Abaidullah Tasleem
+
+
+
+
+
+
