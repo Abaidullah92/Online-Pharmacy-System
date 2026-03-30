@@ -1,6 +1,6 @@
-# Online-Pharmacy-System
-C++ based pharmacy management system
 # Online Pharmacy System (C++)
+C++ based pharmacy management system
+
 
 ## 📌 Description
 This is a console-based Online Pharmacy System developed in C++.  
